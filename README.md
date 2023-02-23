@@ -14,11 +14,11 @@ When the simulation is run, the GUI interface is displayed, and the user enters 
 # User Guide
 To use the simulation, follow the steps below:
 
-Open MATLAB program and navigate to the directory where the project is located.
-In the MATLAB Command Window, run the staubli_sim or fanuc_sim command.
-The GUI interface will open. Enter parameters such as DH parameters and position.
-Click on the "Calculate" button.
-The position and orientation of the robot arm will be visualized on the simulation screen.
+- Open MATLAB program and navigate to the directory where the project is located.
+- In the MATLAB Command Window, run the **staubli_sim** or **fanuc_sim** command.
+- The GUI interface will open. Enter parameters such as DH parameters and position.
+- Click on the "Calculate" button.
+- The position and orientation of the robot arm will be visualized on the simulation screen.
 
 # Requirements
 This project requires MATLAB R2021b or newer.
